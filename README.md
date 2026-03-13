@@ -24,15 +24,6 @@
 
 <br/>
 
-### Selected work
-
-| &nbsp; | Project | Stack | Status |
-|---|---|---|---|
-| ◆ | *Dropping soon* | Next.js · TypeScript · PostgreSQL | In progress |
-| ◆ | *Dropping soon* | Python · FastAPI · SQLite | In progress |
-
-<br/>
-
 > Currently open to collaboration and interesting problems.  
 > [github.com/BahyTheDev](https://github.com/BahyTheDev)
 
