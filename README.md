@@ -1,12 +1,12 @@
 <div align="center">
 
-# `BAHY BADEEU`
+# BAHY BADEEU
 ### Software Engineer & Systems Architect
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status"/>
-  <img src="https://img.shields.io/badge/COMMISSIONS-CLOSED-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Commissions"/>
-  <img src="https://img.shields.io/badge/ACCESS-PRIVATE_NETWORK-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Access"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_DEVELOPMENT-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Status" />
+  <img src="https://img.shields.io/badge/COMMISSIONS-CLOSED-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Commissions" />
+  <img src="https://img.shields.io/badge/ACCESS-PRIVATE_NETWORK-0A0A0A?style=for-the-badge&logoColor=white&labelColor=000000" alt="Access" />
 </p>
 
 ---
@@ -34,3 +34,16 @@ Engineering Principles:
   - Zero-trust architecture & data privacy
   - Type-safe, modular design
   - Automated CI/CD & optimized runtime latency
+
+```
+
+---
+
+### ◈ Workspace Status & Availability
+
+| Parameter | Current State |
+| --- | --- |
+| **Public Inquiries** | Closed |
+| **Freelance / Commissions** | Unavailable |
+| **Codebase Visibility** | Strictly Internal / Private Enterprise |
+| **Active Focus** | Dedicated Proprietary Systems |
